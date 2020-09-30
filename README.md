@@ -21,7 +21,7 @@ A simple image compressor built with [react](https://reactjs.org/) and [browser-
 
 ```
 git clone git@github.com:luisfellipe/compressor.git
-cd react-image-compressor
+cd compressor
 ```
 
 2. Install npm dependencies
